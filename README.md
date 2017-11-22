@@ -31,3 +31,15 @@ Aquest repositori conté la documentació relativa a les eleccions al Parlament 
 ## Manual d’instruccions per als membres de les meses electorals
 
 - http://www.parlament2017.cat/web/resources/parlament_content/Documentacio/02_Administracio_electoral/EPC2017-MIMM-CAT-definitu.pdf
+
+## Conversió de formats
+
+Per convertir els fitxers PDF a TXT, he fet servir alguna de les següents comandes
+
+```
+pdftotext -layout input.pdf
+pdftotext -fixed 2 input.pdf
+pdftotext -fixed 3 input.pdf
+```
+
+Per convertir els arxius TXT a CSV, he fet servir els scripts del directori PHP. Recordeu que cada PDF esta fet per una delegació diferent i en un format diferent.
