@@ -67,6 +67,8 @@ foreach($buffer as $key=>$val) {
 //~ print_r($buffer);
 //~ die();
 foreach($buffer as $key=>$val) {
+	$temp=explode(" ",$val[0]);
+	$val[0]=sprintf("%02d%03d",$temp[0],$temp[1]);
 	$val[2]=sprintf("%02d",$val[2]);
 	$val[3]=sprintf("%03d",$val[3]);
 	if($val[4]!="") $val[4]=sprintf("%02d",$val[4]);

@@ -72,9 +72,18 @@ foreach($buffer as $key=>$val) {
 }
 //~ print_r($buffer);
 //~ die();
+$contador=array();
 foreach($buffer as $key=>$val) {
+	$hash=md5(serialize(array($val[0],$val[5],$val[6])));
+	$contador[$hash]=$hash;
+}
+$contador=array_flip(array_values($contador));
+//~ print_r($contador);
+//~ die();
+foreach($buffer as $key=>$val) {
+	$hash=md5(serialize(array($val[0],$val[5],$val[6])));
 	$temp=array(
-		"",
+		"25".sprintf("%03d",$contador[$hash]+1),
 		$val[0],
 		$val[1],
 		$val[2],

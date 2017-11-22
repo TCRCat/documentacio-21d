@@ -43,6 +43,13 @@ foreach($buffer as $key=>$val) {
 }
 //~ print_r($buffer);
 //~ die();
+foreach($buffer as $key=>$val) {
+	$temp=explode(" ",$val[0]);
+	$val[0]=sprintf("%02d%03d",$temp[0],$temp[1]);
+	$buffer[$key]=$val;
+}
+//~ print_r($buffer);
+//~ die();
 $header=array("COD.MUN","MUNICIPI","DTE.","SECCIÓ","SUB.","MESA","COMPREN ELS ELECTORS","LOCALS EN QUE SE CELEBRA LA VOTACIÓ","DIRECCIÓ");
 echo implode("|",$header)."\n";
 foreach($buffer as $key=>$val) echo implode("|",$val)."\n";
