@@ -40,3 +40,6 @@ Per convertir els fitxers PDF a TXT i CSV, cal tenir instal·lats els programes 
 source make.sh
 ```
 
+## Llistat de punts per votar
+
+Al directori csv, trobareu els arxius que contenen totes les escoles amb les taules per províncies. Si només desitgeu la llista de les escoles sense les taules per a cada província, heu de fer servir els arxius acabats en -petit.csv. Aquests arxius només contenen 3 columnes amb el municipi, nom de l'escola o espai i la direcció.
