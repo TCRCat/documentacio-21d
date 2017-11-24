@@ -34,12 +34,9 @@ Aquest repositori conté la documentació relativa a les eleccions al Parlament 
 
 ## Conversió de formats
 
-Per convertir els fitxers PDF a TXT, he fet servir alguna de les següents comandes
+Per convertir els fitxers PDF a TXT i CSV, cal tenir instal·lats els programes pdftotext, php i executar la següent comanda:
 
 ```
-pdftotext -layout input.pdf
-pdftotext -fixed 2 input.pdf
-pdftotext -fixed 3 input.pdf
+source make.sh
 ```
 
-Per convertir els arxius TXT a CSV, he fet servir els scripts del directori PHP. Recordeu que cada PDF esta fet per una delegació diferent i en un format diferent.
