@@ -17,15 +17,3 @@ cat csv/escoles-girona.csv | cut -d";" -f2,8,9 | uniq > csv/escoles-girona-petit
 
 pdftotext -layout pdf/candidatures.pdf txt/candidatures.txt
 php php/candidatures.php > csv/candidatures.csv
-
-head -1 csv/candidatures.csv > csv/candidatures-barcelona.csv
-cat csv/candidatures.csv | grep BARCELONA >> csv/candidatures-barcelona.csv
-
-head -1 csv/candidatures.csv > csv/candidatures-tarragona.csv
-cat csv/candidatures.csv | grep TARRAGONA >> csv/candidatures-tarragona.csv
-
-head -1 csv/candidatures.csv > csv/candidatures-lleida.csv
-cat csv/candidatures.csv | grep LLEIDA >> csv/candidatures-lleida.csv
-
-head -1 csv/candidatures.csv > csv/candidatures-girona.csv
-cat csv/candidatures.csv | grep GIRONA >> csv/candidatures-girona.csv
