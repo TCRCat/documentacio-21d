@@ -1,4 +1,4 @@
-# documentacio-21d
+# Documentacio 21D
 
 Aquest repositori conté la documentació relativa a les eleccions al Parlament de Catalunya.
 
