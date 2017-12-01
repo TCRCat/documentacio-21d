@@ -1,5 +1,5 @@
 <?php
-$buffer=file_get_contents("txt/escoles-barcelona.txt");
+$buffer=file_get_contents("txt/escoles-barcelona-2017-11-02.txt");
 $buffer=explode("\n",$buffer);
 foreach($buffer as $key=>$val) {
 	$val=str_replace(chr(0x0c),"",$val);

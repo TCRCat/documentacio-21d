@@ -1,5 +1,5 @@
 <?php
-$buffer=file_get_contents("txt/escoles-girona.txt");
+$buffer=file_get_contents("txt/escoles-girona-2017-11-03.txt");
 $buffer=explode("\n",$buffer);
 $ok2=0;
 foreach($buffer as $key=>$val) {

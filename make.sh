@@ -1,9 +1,12 @@
 #!/bin/bash
 
-pdftotext -fixed 3 pdf/escoles-barcelona.pdf txt/escoles-barcelona.txt
-pdftotext -fixed 3 pdf/escoles-tarragona.pdf txt/escoles-tarragona.txt
-pdftotext -fixed 2 pdf/escoles-lleida.pdf txt/escoles-lleida.txt
-pdftotext -fixed 2 pdf/escoles-girona.pdf txt/escoles-girona.txt
+pdftotext -fixed 3 pdf/escoles-barcelona-2017-11-02.pdf txt/escoles-barcelona-2017-11-02.txt
+pdftotext -fixed 3 pdf/escoles-tarragona-2017-11-03.pdf txt/escoles-tarragona-2017-11-03.txt
+pdftotext -fixed 2 pdf/escoles-lleida-2017-11-03.pdf txt/escoles-lleida-2017-11-03.txt
+pdftotext -fixed 2 pdf/escoles-girona-2017-11-03.pdf txt/escoles-girona-2017-11-03.txt
+
+pdftotext -fixed 3 pdf/escoles-barcelona-2017-11-23.pdf txt/escoles-barcelona-2017-11-23.txt
+pdftotext -fixed 2 pdf/escoles-girona-2017-11-22.pdf txt/escoles-girona-2017-11-22.txt
 
 php php/escoles-barcelona.php > csv/escoles-barcelona.csv
 php php/escoles-tarragona.php > csv/escoles-tarragona.csv

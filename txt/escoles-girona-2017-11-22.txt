@@ -1,0 +1,226 @@
+                          Núm.          223       –   22    de      novembre                 de     2017                                                                                                                                                         Pàg.        2
+
+
+
+                          Núm.           9852
+                          INSTITUT                NACIONAL                   D’ESTADÍSTICA
+                          OFICINA DEL CENS                           ELECTORAL
+                          Delegació            Provincial           de    Girona
+
+                          Modificació           de   la   relació      de   municipis          amb      nombre        i  límits      de   les   seccions       electorals,         els  seus     locals      i les   meses       corresponents             a  cadascuna
+                          d’elles
+
+                          Eleccions           al  Parlament             de    Catalunya             del    21/10/2017
+
+                          Es    modifica           la  relació        de    municipis            amb       nombre          i  límits      de     les   seccions          electorals,          els   seus      locals       i les    meses        corresponents                a
+                          cadascuna             d’elles       publicades             per       la  Delegació            Provincial            de    l’Oficina          del    Cens       Electoral          de    Girona,          en    el   BOP       núm.        210     de
+                          data      3  de    novembre             de    2017,       (artícle       24   de    la   L.O.R.E.G.)             de    la  següent          manera:
+
+
+
+                          Modificación             de   la  relación       de   municipios           con     nombre        y   límites      de   las   secciones        electorales,         sus    locales      y  las   mesas       correspondientes               a   cada
+                          una     de   ellas
+
+                          Elecciones            al  Parlamento               de    Cataluña           del    21/12/2017
+
+                          Se modifica la relación de municipios con número y límites de las secciones electorales, sus locales y las mesas correspondientes
+                          a   cada      una      de    ellas     publicada            por      la  Delegación              Provincial           de     la  Oficina         del     Censo        Electoral          de    Girona,         en    el   BOP       nº    210     de
+                          fecha       3  de    noviembre              de    2017,      (artículo         24   de    la   L.O.R.E.G.)             de    la    siguiente          forma:
+
+                          COD.       MUNICIPIO                                  DTO.    SECCIÓN       SUB.    MESA COMPRENDE LOS                          LOCALES EN LOS QUE SE CELEBRA                        DIRECCIÓN
+                          MUN                                                                                          ELECTORES                          LA VOTACIÓN
+                          COD.       MUNICIPI                                   DTE.     SECCIÓ       SUB.    MESA COMPREN                                LOCALS EN QUE SE CELEBRA LA                          DIRECCIÓ
+                          MUN                                                                                          ELS ELECTORS                       VOTACIÓ
+
+                                    DICE    :
+
+                          17007     AMER                                          01         001                 A     De la letra       A    a la   D    CASAL D’AMER                                      RBLA MONESTIR NUM: 6 -              AMER (17170)
+                          17007     AMER                                          01         001                 B     De la letra       E    a la   O    CASAL D’AMER                                      RBLA MONESTIR NUM: 6 -              AMER (17170)
+                          17007     AMER                                          01         001                 C     De la letra       P    a la   Z    CASAL D’AMER                                      RBLA MONESTIR NUM: 6 -              AMER (17170)
+
+                                    DEBE DECIR        :
+
+                         17007      AMER                                          01         001                 A     De la letra       A    a la   D    LOCAL POLIVALENT                                  PUJADA ESRACIÓ NUM:15 - AMER (17170)
+                         17007      AMER                                          01         001                 B     De la letra       E    a la   O    LOCAL POLIVALENT                                  PUJADA ESRACIÓ NUM:15 - AMER (17170)
+                         17007      AMER                                          01         001                 C     De la letra       P    a la   Z    LOCAL POLIVALENT                                  PUJADA ESRACIÓ NUM:15 - AMER (17170)
+
+                                    DICE    :
+
+                         17008      ANGLÈS                                        01         001                 U     De la letra       A   a la   Z     LLAR D’INFANTS MUNICIPAL                          C/ JOAN COROMINAS (DE) S/N - ANGLÈS (17160)
+                         17008      ANGLÈS                                        01         002                 A     De la letra       A   a la   L     LLAR D’INFANTS MUNICIPAL                          C/ JOAN COROMINAS (DE) S/N - ANGLÈS (17160)
+                         17008      ANGLÈS                                        01         002                 B     De la letra      M    a la   Z     LLAR D’INFANTS MUNICIPAL                          C/ JOAN COROMINAS (DE) S/N - ANGLÈS (17160)
+                         17008      ANGLÈS                                        01         003                 A     De la letra       A   a la   L     LLAR D’INFANTS MUNICIPAL                          C/ JOAN COROMINAS (DE) S/N - ANGLÈS (17160)
+                         17008      ANGLÈS                                        01         003                 B     De la letra      M    a la   Z     LLAR D’INFANTS MUNICIPAL                          C/ JOAN COROMINAS (DE) S/N - ANGLÈS (17160)
+
+                                    DEBE DECIR        :
+
+                         17008      ANGLÈS                                        01         001                 U     De la letra       A   a la   Z     SALA POLIVALENT NAU BURES 3                       C/ FÀBRIQUES (DE LES) NUM: 6 ANGLÈS (17160)
+                         17008      ANGLÈS                                        01         002                 A     De la letra       A   a la   L     SALA POLIVALENT NAU BURES 3                       C/ FÀBRIQUES (DE LES) NUM: 6 ANGLÈS (17160)
+                         17008      ANGLÈS                                        01         002                 B     De la letra      M    a la   Z     SALA POLIVALENT NAU BURES 3                       C/ FÀBRIQUES (DE LES) NUM: 6 ANGLÈS (17160)
+                         17008      ANGLÈS                                        01         003                 A     De la letra       A   a la   L     SALA POLIVALENT NAU BURES 3                       C/ FÀBRIQUES (DE LES) NUM: 6 ANGLÈS (17160)
+                         17008      ANGLÈS                                        01         003                 B     De la letra      M    a la   Z     SALA POLIVALENT NAU BURES 3                       C/ FÀBRIQUES (DE LES) NUM: 6 ANGLÈS (17160)
+
+                                    DICE    :
+
+                         17118      PALAMÓS                                       01         001                 A     De la letra      A    a la   L     EDIFICI DEL CLUB NAUTIC COSTA                     CARRE CLUB NAUTIC S/N -                PALAMÓS (17230)
+                                                                                                                                                          BRAVA
+                         17118      PALAMÓS                                       01         001                 B     De la letra      M    a la   Z     EDIFICI DEL CLUB NAUTIC COSTA                     CARRE CLUB NAUTIC S/N -                PALAMÓS (17230)
+                                                                                                                                                          BRAVA
+
+
+
+
+                                                                                                                                       Administració                            Electoral                   Oficina              del      Cens            Electoral
+                          Núm.          223       –   22    de      novembre                 de     2017                                                                                                                                                         Pàg.        3
+
+
+                          COD.       MUNICIPIO                                  DTO.    SECCIÓN       SUB.    MESA COMPRENDE LOS                          LOCALES EN LOS QUE SE CELEBRA                        DIRECCIÓN
+                          MUN                                                                                          ELECTORES                          LA VOTACIÓN
+                          COD.       MUNICIPI                                   DTE.     SECCIÓ       SUB.    MESA COMPREN                                LOCALS EN QUE SE CELEBRA LA                          DIRECCIÓ
+                          MUN                                                                                          ELS ELECTORS                       VOTACIÓ
+
+                          17118     PALAMÓS                                       04         001                 A     De la letra       A    a la   L    SALA POLIVALENT                                   PLAÇA MOSSEN GUMERSIND S/N - SANT JOAN
+                                                                                                                                                                                                            DE PALAMÓS -         PALAMÓS (17230)
+                          17118     PALAMÓS                                       04         001                 B     De la letra      M    a la   Z     SALA POLIVALENT                                   PLAÇA MOSSEN GUMERSIND S/N - SANT JOAN
+                                                                                                                                                                                                            DE PALAMÓS -         PALAMÓS (17230)
+
+                                    DEBE DECIR        :
+
+                         17118      PALAMÓS                                       01         001                 A     De la letra       A   a la   L     AJUNTAMENT DE PALAMÓS                             CARRE MAJOR UN,: 56 - PALAMÓS (17230)
+                         17118      PALAMÓS                                       01         001                 B     De la letra      M    a la   Z     AJUNTAMENT DE PALAMÓS                             CARRE MAJOR UN,: 56 - PALAMÓS (17230)
+                         17118      PALAMÓS                                       04         001                 A     De la letra       A   a la   L     AULA D’APRENENTATGE                               CARRE RIERA NUM: 31 - SANT JOAN DE
+                                                                                                                                                                                                            PALAMÓS -        PALAMÓS (17230)
+                         17118      PALAMÓS                                       04         001                 B     De la letra      M    a la   Z     AULA D’APRENENTATGE                               CARRE RIERA NUM: 31 - SANT JOAN DE
+                                                                                                                                                                                                            PALAMÓS -        PALAMÓS (17230)
+
+                                    DICE    :
+
+                         17128      PAU                                           01         001                 U     De la letra      A    a la   Z     ESCOLES DE PAU                                    CARRE MIGJORN NUM: 2 -               PAU (17494)
+
+                                    DEBE DECIR        :
+
+                         17128      PAU                                           01         001                 U     De la letra      A    a la   Z     DISPENSARI MÈDIC (SALA ESPERE)                    C/ REI UN,:2 - PAU (17494)
+
+                                    DICE    :
+
+                         17139      PRESES (LES)                                  01         001        01       A     De la letra      A    a la   Z     EDIFICI ESCOLES                                   C/ SANT SEBASTIÀ NUM: 41 -               PRESES (LES)
+                                                                                                                                                                                                            (17178)
+
+                                    DEBE DECIR        :
+
+                         17139      PRESES (LES)                                  01         001        01       A     De la letra      A    a la   Z     CENTRE CULTURAL                                   C/ MURRIÀ BUM: 34 - PRESES (LES) (17178)
+
+                                    DICE    :
+
+                         17180      SANTA COLOMA DE FARNERS                       01         001                 A     De la letra      A    a la   L     COL.LEGI PUBLIC SANT SALVADOR                     PG SANT SALVADOR NUM: 12 -                  SANTA COLOMA
+                                                                                                                                                          D’HORTA                                           DE FARNERS (17430)
+                         17180      SANTA COLOMA DE FARNERS                       01         001                 B     De la letra      M    a la   Z     COL.LEGI PUBLIC SANT SALVADOR                     PG SANT SALVADOR NUM: 12 -                  SANTA COLOMA
+                                                                                                                                                          D’HORTA                                           DE FARNERS (17430)
+                         17180      SANTA COLOMA DE FARNERS                       01         002                 A     De la letra      A    a la   K     COL.LEGI PUBLIC SANT SALVADOR                     PG SANT SALVADOR NUM: 12 -                  SANTA COLOMA
+                                                                                                                                                          D’HORTA                                           DE FARNERS (17430)
+                         17180      SANTA COLOMA DE FARNERS                       01         002                 B     De la letra       L   a la   Z     COL.LEGI PUBLIC SANT SALVADOR                     PG SANT SALVADOR NUM: 12 -                  SANTA COLOMA
+                                                                                                                                                          D’HORTA                                           DE FARNERS (17430)
+                         17180      SANTA COLOMA DE FARNERS                       01         003                 A     De la letra      A    a la   L     COL.LEGI PUBLIC SANT SALVADOR                     PG SANT SALVADOR NUM: 12 -                  SANTA COLOMA
+                                                                                                                                                          D’HORTA                                           DE FARNERS (17430)
+                         17180      SANTA COLOMA DE FARNERS                       01         003                 B     De la letra      M    a la   Z     COL.LEGI PUBLIC SANT SALVADOR                     PG SANT SALVADOR NUM: 12 -                  SANTA COLOMA
+                                                                                                                                                          D’HORTA                                           DE FARNERS (17430)
+                         17180      SANTA COLOMA DE FARNERS                       01         004                 A     De la letra      A    a la   L     COL.LEGI PUBLIC SANT SALVADOR                     PG SANT SALVADOR NUM: 12 -                  SANTA COLOMA
+                                                                                                                                                          D’HORTA                                           DE FARNERS (17430)
+                         17180      SANTA COLOMA DE FARNERS                       01         004                 B     De la letra      M    a la   Z     COL.LEGI PUBLIC SANT SALVADOR                     PG SANT SALVADOR NUM: 12 -                  SANTA COLOMA
+                                                                                                                                                          D’HORTA                                           DE FARNERS (17430)
+                         17180      SANTA COLOMA DE FARNERS                       01         005                 A     De la letra      A    a la   L     COL.LEGI PUBLIC SANT SALVADOR                     PG SANT SALVADOR NUM: 12 -                  SANTA COLOMA
+                                                                                                                                                          D’HORTA                                           DE FARNERS (17430)
+                         17180      SANTA COLOMA DE FARNERS                       01         005                 B     De la letra      M    a la   Z     COL.LEGI PUBLIC SANT SALVADOR                     PG SANT SALVADOR NUM: 12 -                  SANTA COLOMA
+                                                                                                                                                          D’HORTA                                           DE FARNERS (17430)
+                         17180      SANTA COLOMA DE FARNERS                       01         006                 A     De la letra      A    a la   L     COL.LEGI PUBLIC SANT SALVADOR                     PG SANT SALVADOR NUM: 12 -                  SANTA COLOMA
+                                                                                                                                                          D’HORTA                                           DE FARNERS (17430)
+                         17180      SANTA COLOMA DE FARNERS                       01         006                 B     De la letra      M    a la   Z     COL.LEGI PUBLIC SANT SALVADOR                     PG SANT SALVADOR NUM: 12 -                  SANTA COLOMA
+                                                                                                                                                          D’HORTA                                           DE FARNERS (17430)
+
+                                    DEBE DECIR        :
+
+                         17180      SANTA COLOMA DE FARNERS                       01         001                 A     De la letra      A    a la   L     COL.LEGI PUBLIC SANT SALVADOR                     PG SANT SALVADOR NUM: 12 -                  SANTA COLOMA
+                                                                                                                                                          D’HORTA                                           DE FARNERS (17430)
+                         17180      SANTA COLOMA DE FARNERS                       01         001                 B     De la letra      M    a la   Z     COL.LEGI PUBLIC SANT SALVADOR                     PG SANT SALVADOR NUM: 12 -                  SANTA COLOMA
+                                                                                                                                                          D’HORTA                                           DE FARNERS (17430)
+                         17180      SANTA COLOMA DE FARNERS                       01         002                 A     De la letra      A    a la   K     COL.LEGI PUBLIC SANT SALVADOR                     PG SANT SALVADOR NUM: 12 -                  SANTA COLOMA
+                                                                                                                                                          D’HORTA                                           DE FARNERS (17430)
+                         17180      SANTA COLOMA DE FARNERS                       01         002                 B     De la letra       L   a la   Z     COL.LEGI PUBLIC SANT SALVADOR                     PG SANT SALVADOR NUM: 12 -                  SANTA COLOMA
+                                                                                                                                                          D’HORTA                                           DE FARNERS (17430)
+                         17180      SANTA COLOMA DE FARNERS                       01         003                 A     De la letra      A    a la   L     COL.LEGI PUBLIC SANT SALVADOR                     PG SANT SALVADOR NUM: 12 -                  SANTA COLOMA
+                                                                                                                                                          D’HORTA                                           DE FARNERS (17430)
+
+
+
+
+                                                                                                                                       Administració                            Electoral                   Oficina              del      Cens            Electoral
+                          Núm.          223       –   22    de      novembre                 de     2017                                                                                                                                                         Pàg.        4
+
+
+                          COD.       MUNICIPIO                                  DTO.    SECCIÓN       SUB.    MESA COMPRENDE LOS                          LOCALES EN LOS QUE SE CELEBRA                        DIRECCIÓN
+                          MUN                                                                                          ELECTORES                          LA VOTACIÓN
+                          COD.       MUNICIPI                                   DTE.     SECCIÓ       SUB.    MESA COMPREN                                LOCALS EN QUE SE CELEBRA LA                          DIRECCIÓ
+                          MUN                                                                                          ELS ELECTORS                       VOTACIÓ
+
+                          17180     SANTA COLOMA DE FARNERS                       01         003                 B     De la letra      M    a la   Z     COL.LEGI PUBLIC SANT SALVADOR                     PG SANT SALVADOR NUM: 12 -                  SANTA COLOMA
+                                                                                                                                                          D’HORTA                                           DE FARNERS (17430)
+                          17180     SANTA COLOMA DE FARNERS                       01         004                 A     De la letra       A    a la   L    COL.LEGI PUBLIC SANT SALVADOR                     PG SANT SALVADOR NUM: 12 -                  SANTA COLOMA
+                                                                                                                                                          D’HORTA                                           DE FARNERS (17430)
+                         17180      SANTA COLOMA DE FARNERS                       01         004                 B     De la letra      M    a la   Z     COL.LEGI PUBLIC SANT SALVADOR                     PG SANT SALVADOR NUM: 12 -                  SANTA COLOMA
+                                                                                                                                                          D’HORTA                                           DE FARNERS (17430)
+                         17180      SANTA COLOMA DE FARNERS                       01         005                 A     De la letra      A    a la   L     COL.LEGI PUBLIC SANT SALVADOR                     PG SANT SALVADOR NUM: 12 -                  SANTA COLOMA
+                                                                                                                                                          D’HORTA                                           DE FARNERS (17430)
+                         17180      SANTA COLOMA DE FARNERS                       01         005                 B     De la letra      M    a la   Z     COL.LEGI PUBLIC SANT SALVADOR                     PG SANT SALVADOR NUM: 12 -                  SANTA COLOMA
+                                                                                                                                                          D’HORTA                                           DE FARNERS (17430)
+                         17180      SANTA COLOMA DE FARNERS                       01         006                 A     De la letra      A    a la   L     COL.LEGI PUBLIC SANT SALVADOR                     PG SANT SALVADOR NUM: 12 -                  SANTA COLOMA
+                                                                                                                                                          D’HORTA                                           DE FARNERS (17430)
+                         17180      SANTA COLOMA DE FARNERS                       01         006                 B     De la letra      M    a la   Z     COL.LEGI PUBLIC SANT SALVADOR                     PG SANT SALVADOR NUM: 12 -                  SANTA COLOMA
+                                                                                                                                                          D’HORTA                                           DE FARNERS (17430)
+
+                                    DICE    :
+
+                         17901      CRUÏLLES, MONELLS I SANT                      01         001        01       A     De la letra      A    a la   Z     ESCOLES D’EGB                                     C/ RAVAL NUM: 8 - BORDETA (LA) - CRUÏLLES
+                                    SADURNÍ DE L’HEURA                                                                                                                                                      - CRUÏLLES, MONELLS I SANT SADURNÍ DE
+                                                                                                                                                                                                            L’HEURA (17116)
+
+                                    DEBE DECIR        :
+
+                         17901      CRUÏLLES, MONELLS I SANT                      01         001        01       A     De la letra      A    a la   Z     CENTRE CÍVIC DEL PUIGVENTÓS                       C/ LA PERDIU NUM:2 BORDETA (LA) - CRUÏLLES
+                                    SADURNÍ DE L’HEURA                                                                                                                                                      - CRUÏLLES, MONELLS I SANT SADURNÍ DE
+                                                                                                                                                                                                            L’HEURA (17116)
+
+                                    DICE    :
+
+                         17209      VALL-LLOBREGA                                 01         001                 U     De la letra      A    a la   Z     SALA POLIVALENT                                   CARRE RAVAL DE BAIX NUM: 23 - ZONA RURAL
+                                                                                                                                                                                                            RAVAL DE BAIX - EIXAMPLE -               VALL-LLOBREGA
+                                                                                                                                                                                                            (17253)
+
+                                    DEBE DECIR        :
+
+                         17209      VALL-LLOBREGA                                 01         001                 U     De la letra      A    a la   Z     BIBLIOTECA MUNICPAL                               PLAÇA DE LA VILA NUM:1 - ZONA RURAL RAVAL
+                                                                                                                                                                                                            DE BAIX - EIXAMPLE -           VALL-LLOBREGA (17253)
+
+                                    DICE    :
+
+                         17903      SANT JULIÀ DEL LLOR I                         01         001                 U     De la letra      A    a la   Z     CEIP SANT JORDI                                   PLAÇA MASSANA NUM: 1 - BONMATI -                      SANT
+                                    BONMATÍ                                                                                                                                                                 JULIÀ DEL LLOR I BONMATÍ (17164)
+
+                                    DEBE DECIR        :
+
+                         17903      SANT JULIÀ DEL LLOR I                         01         001                 U     De la letra      A    a la   Z     CEBTRE CIVIC DE BONMATÍ                           C/ IPSLO LAURO NUM: 12 - BONMATI -                    SANT
+                                    BONMATÍ                                                                                                                                                                 JULIÀ DEL LLOR I BONMATÍ (17164)
+
+
+
+                          Girona,         20    de    noviembre             de    2017
+                          Girona,         20    de    novembre             de    2017
+
+                          Pablo       Iván Arias            Neira
+                          Delegado            provincial            de    la  O.C.E.											
+                          		
+
+
+
+
+                                                                                                                                       Administració                            Electoral                   Oficina              del      Cens            Electoral
+

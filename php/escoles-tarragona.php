@@ -1,5 +1,5 @@
 <?php
-$buffer=file_get_contents("txt/escoles-tarragona.txt");
+$buffer=file_get_contents("txt/escoles-tarragona-2017-11-03.txt");
 $buffer=explode("\n",$buffer);
 foreach($buffer as $key=>$val) {
 	if(substr(trim($val),0,4)=="CIE:") unset($buffer[$key]);
