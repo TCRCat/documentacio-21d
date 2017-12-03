@@ -13,10 +13,10 @@ php php/escoles-tarragona.php > csv/escoles-tarragona.csv
 php php/escoles-lleida.php > csv/escoles-lleida.csv
 php php/escoles-girona.php > csv/escoles-girona.csv
 
-cat csv/escoles-barcelona.csv | cut -d";" -f2,8,9 | uniq > csv/escoles-barcelona-petit.csv
-cat csv/escoles-tarragona.csv | cut -d";" -f2,8,9 | uniq > csv/escoles-tarragona-petit.csv
-cat csv/escoles-lleida.csv | cut -d";" -f2,8,9 | uniq > csv/escoles-lleida-petit.csv
-cat csv/escoles-girona.csv | cut -d";" -f2,8,9 | uniq > csv/escoles-girona-petit.csv
+#~ cat csv/escoles-barcelona.csv | cut -d";" -f2,8,9 | uniq > csv/escoles-barcelona-petit.csv
+#~ cat csv/escoles-tarragona.csv | cut -d";" -f2,8,9 | uniq > csv/escoles-tarragona-petit.csv
+#~ cat csv/escoles-lleida.csv | cut -d";" -f2,8,9 | uniq > csv/escoles-lleida-petit.csv
+#~ cat csv/escoles-girona.csv | cut -d";" -f2,8,9 | uniq > csv/escoles-girona-petit.csv
 
 pdftotext -layout pdf/candidatures.pdf txt/candidatures.txt
 php php/candidatures.php > csv/candidatures.csv
